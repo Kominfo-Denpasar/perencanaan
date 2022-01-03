@@ -1,8 +1,8 @@
-# perencanaan
+# Perencanaan
 
 Sistem Informasi Perencanaan
 
-__Stack/Technologies used:__
+## Stack/Technologies used:
 
 - Laravel v7.30.4
 - Crudbooster Backend v5.5
