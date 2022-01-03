@@ -6,7 +6,7 @@ Sistem Informasi Perencanaan
 
 - Laravel v7.30.4
 - Crudbooster Backend v5.5
-- Vue
+- Vue frontend
 <!-- - Yajra Datatable v6 -->
 
 - - - - -
